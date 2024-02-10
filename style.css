@@ -1,0 +1,25 @@
+li{
+    list-style-type: none;
+}
+h2{
+    font-size: 26px !important;
+}
+input[type="checkbox"]{
+    margin-right: 20px;
+}
+
+input[type="submit"]{
+    margin-top: 20px;
+    width: 200px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid #080808;
+}
+
+div#showresult{
+    padding: 90px 0;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 44px;
+    margin-top: 20px;
+}
